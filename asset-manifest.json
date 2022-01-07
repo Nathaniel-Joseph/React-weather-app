@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Nathaniel-Joseph/React-weather-app.git/static/css/main.96c216e2.css",
+    "main.js": "/Nathaniel-Joseph/React-weather-app.git/static/js/main.8f26db6c.js",
+    "static/media/clear sky.bfb832d6.jpg": "/Nathaniel-Joseph/React-weather-app.git/static/media/clear sky.bfb832d6.6402a9291842c7d3a773.jpg",
+    "static/media/clouds.4517755c.jpg": "/Nathaniel-Joseph/React-weather-app.git/static/media/clouds.4517755c.0254ecc6cf5e05fffde6.jpg",
+    "index.html": "/Nathaniel-Joseph/React-weather-app.git/index.html",
+    "main.96c216e2.css.map": "/Nathaniel-Joseph/React-weather-app.git/static/css/main.96c216e2.css.map",
+    "main.8f26db6c.js.map": "/Nathaniel-Joseph/React-weather-app.git/static/js/main.8f26db6c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96c216e2.css",
+    "static/js/main.8f26db6c.js"
+  ]
+}
